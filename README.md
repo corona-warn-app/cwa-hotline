@@ -3,7 +3,7 @@
 This repository contains all issues that need to be addressed to the hotlines of the Corona-Warn-App, i.e. +498007540001 (app & technical questions) and +498007540002 (TAN requests). This is **not** a standard development repository! 
 
 ## How to check or raise issues
-Simply see the [issue section](https://github.com/corona-warn-app/cwa-hotline/issues) and check if the issue you want to raise was already reported. Feel free [to raise a new issue](https://github.com/corona-warn-app/cwa-hotline/issues/new) in case yours hasn't been reported yet. Please use one of our issue templates so that we can ensure that all necessary information is already there.
+Simply see the [issue section](https://github.com/corona-warn-app/cwa-hotline/issues) and check if the issue you want to raise was already reported. Feel free [to raise a new issue](https://github.com/corona-warn-app/cwa-hotline/issues/new/choose) in case yours hasn't been reported yet. Please use one of our issue templates so that we can ensure that all necessary information is already there.
 
 ## How to contribute  
 This repository is meant to be read-only with the exception of issues that need to be addressed to the Corona-Warn-App hotline. 
