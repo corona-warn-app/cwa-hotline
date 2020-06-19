@@ -1,4 +1,7 @@
 # Corona-Warn-App: Hotline
+
+<a href="https://github.com/corona-warn-app/cwa-hotline/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/corona-warn-app/cwa-hotline"></a>
+
 ## About this Repository
 This repository contains all issues that need to be addressed to the hotlines of the Corona-Warn-App, i.e. +498007540001 (app & technical questions) and +498007540002 (TAN requests). This is **not** a standard development repository! 
 
