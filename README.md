@@ -3,7 +3,7 @@
 <a href="https://github.com/corona-warn-app/cwa-hotline/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/corona-warn-app/cwa-hotline"></a>
 
 ## About this Repository
-This repository contains all issues that need to be addressed regarding the hotlines of the Corona-Warn-App. The App hotline is for technical questions regarding the Corona-Warn-App. The TAN hotline serves requests to issue TANs for the Corona-Warn-App. The national telephone number is to be used when calling from within Germany. The international number is available for calls originating outside Germany.
+This repository contains all issues that need to be addressed regarding the hotlines of the Corona-Warn-App. The App hotline is for technical questions regarding the Corona-Warn-App. The TAN hotline serves requests to issue TANs for the Corona-Warn-App. The national telephone number is to be used when calling from within Germany. The international number is available for calls originating outside Germany. The operating hours of the app and TAN hotlines are listed in the [Support](https://www.coronawarn.app/en/faq/#support) section of the [Corona-Warn-App website](https://www.coronawarn.app/).
 
 Hotline | App | TAN
 --- | --- | ---
@@ -22,7 +22,7 @@ Issues which are opened and do not contain a valid request to the hotline will b
 
 ## Licensing
 
-Copyright (c) 2020-2021 Deutsche Telekom AG and SAP SE or an SAP affiliate company.
+Copyright (c) 2020-2022 Deutsche Telekom AG and SAP SE or an SAP affiliate company.
 
 Licensed under the **Apache License, Version 2.0** (the "License"); you may not use this file except in compliance with the License.
 
