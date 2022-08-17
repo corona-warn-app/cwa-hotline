@@ -16,9 +16,14 @@ This is **not** a standard development repository!
 Simply see the [issue section](https://github.com/corona-warn-app/cwa-hotline/issues) and check if the issue you want to raise was already reported. Feel free [to raise a new issue](https://github.com/corona-warn-app/cwa-hotline/issues/new/choose) in case yours hasn't been reported yet. Please use one of our issue templates so that we can ensure that all necessary information is already there.
 
 ## How to contribute  
+
 This repository is meant to be read-only with the exception of issues that need to be addressed to the Corona-Warn-App hotline. 
 
 Issues which are opened and do not contain a valid request to the hotline will be moved to the respective repository or will be closed. Pull requests may be opened in case there are typos or corrections to this README. All other PRs will be closed.
+
+### Code of Conduct 
+
+ By participating in this project, you agree to abide by its [Code of Conduct](./CODE_OF_CONDUCT.md) at all times.
 
 ## Licensing
 
