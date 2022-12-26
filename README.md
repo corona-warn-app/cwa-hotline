@@ -27,7 +27,7 @@ Issues which are opened and do not contain a valid request to the hotline will b
 
 ## Licensing
 
-Copyright (c) 2020-2022 Deutsche Telekom AG and SAP SE or an SAP affiliate company.
+Copyright (c) 2020-2023 Deutsche Telekom AG and SAP SE or an SAP affiliate company.
 
 Licensed under the **Apache License, Version 2.0** (the "License"); you may not use this file except in compliance with the License.
 
