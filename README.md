@@ -5,29 +5,31 @@
 ## About this Repository
 This repository contains all issues that need to be addressed regarding the hotlines of the Corona-Warn-App. The App hotline is for technical questions regarding the Corona-Warn-App. The TAN hotline serves requests to issue TANs for the Corona-Warn-App. The national telephone number is to be used when calling from within Germany. The international number is available for calls originating outside Germany. The operating hours of the app and TAN hotlines are listed in the [Support](https://www.coronawarn.app/en/faq/#support) section of the [Corona-Warn-App website](https://www.coronawarn.app/).
 
-Hotline | App | TAN
---- | --- | ---
-National | [0800 7540001](tel:08007540001) | [0800 7540002](tel:08007540002)
-International | [+49 30 498 75401](tel:+493049875401) | [+49 30 498 75402](tel:+493049875402)
+*Following the release of CWA 3.0 on Jan 18, 2023 the TAN Hotline is no longer necessary and shuts down on Jan 31, 2023. See the blog announcement [Version 3.0: CWA warnings now possible after positive self-test](https://www.coronawarn.app/en/blog/2023-01-18-cwa-3-0/) for further details.*
+
+| Hotline       | App                                   | TAN<br>(until Jan 31, 2023)           |
+| ------------- | ------------------------------------- | ------------------------------------- |
+| National      | [0800 7540001](tel:08007540001)       | [0800 7540002](tel:08007540002)       |
+| International | [+49 30 498 75401](tel:+493049875401) | [+49 30 498 75402](tel:+493049875402) |
 
 This is **not** a standard development repository!
 
 ## How to check or raise issues
 Simply see the [issue section](https://github.com/corona-warn-app/cwa-hotline/issues) and check if the issue you want to raise was already reported. Feel free [to raise a new issue](https://github.com/corona-warn-app/cwa-hotline/issues/new/choose) in case yours hasn't been reported yet. Please use one of our issue templates so that we can ensure that all necessary information is already there.
 
-## How to contribute  
+## How to contribute
 
-This repository is meant to be read-only with the exception of issues that need to be addressed to the Corona-Warn-App hotline. 
+This repository is meant to be read-only with the exception of issues that need to be addressed to the Corona-Warn-App hotline.
 
 Issues which are opened and do not contain a valid request to the hotline will be moved to the respective repository or will be closed. Pull requests may be opened in case there are typos or corrections to this README. All other PRs will be closed.
 
-### Code of Conduct 
+### Code of Conduct
 
  By participating in this project, you agree to abide by its [Code of Conduct](./CODE_OF_CONDUCT.md) at all times.
 
 ## Licensing
 
-Copyright (c) 2020-2022 Deutsche Telekom AG and SAP SE or an SAP affiliate company.
+Copyright (c) 2020-2023 Deutsche Telekom AG and SAP SE or an SAP affiliate company.
 
 Licensed under the **Apache License, Version 2.0** (the "License"); you may not use this file except in compliance with the License.
 
