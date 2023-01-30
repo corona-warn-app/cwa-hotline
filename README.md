@@ -3,14 +3,14 @@
 <a href="https://github.com/corona-warn-app/cwa-hotline/issues" title="Open Issues"><img src="https://img.shields.io/github/issues/corona-warn-app/cwa-hotline"></a>
 
 ## About this Repository
-This repository contains all issues that need to be addressed regarding the hotlines of the Corona-Warn-App. The App hotline is for technical questions regarding the Corona-Warn-App. The TAN hotline serves requests to issue TANs for the Corona-Warn-App. The national telephone number is to be used when calling from within Germany. The international number is available for calls originating outside Germany. The operating hours of the app and TAN hotlines are listed in the [Support](https://www.coronawarn.app/en/faq/#support) section of the [Corona-Warn-App website](https://www.coronawarn.app/).
+This repository contains all issues that need to be addressed regarding the hotlines of the Corona-Warn-App. The App hotline is for technical questions regarding the Corona-Warn-App. The national telephone number is to be used when calling from within Germany. The international number is available for calls originating outside Germany. The operating hours of the app are listed in the [Support](https://www.coronawarn.app/en/faq/#support) section of the [Corona-Warn-App website](https://www.coronawarn.app/).
 
-*Following the release of CWA 3.0 on Jan 18, 2023 the TAN Hotline is no longer necessary and shuts down on Jan 31, 2023. See the blog announcement [Version 3.0: CWA warnings now possible after positive self-test](https://www.coronawarn.app/en/blog/2023-01-18-cwa-3-0/) for further details.*
+| Hotline       | App                                   |
+| ------------- | ------------------------------------- |
+| National      | [0800 7540001](tel:08007540001)       |
+| International | [+49 30 498 75401](tel:+493049875401) |
 
-| Hotline       | App                                   | TAN<br>(until Jan 31, 2023)           |
-| ------------- | ------------------------------------- | ------------------------------------- |
-| National      | [0800 7540001](tel:08007540001)       | [0800 7540002](tel:08007540002)       |
-| International | [+49 30 498 75401](tel:+493049875401) | [+49 30 498 75402](tel:+493049875402) |
+Following the release of CWA 3.0 on Jan 18, 2023, the TAN Hotline, which served requests to issue TANs for the Corona-Warn-App, became no longer necessary. See the blog announcement [Version 3.0: CWA warnings now possible after positive self-test](https://www.coronawarn.app/en/blog/2023-01-18-cwa-3-0/) for further details.
 
 This is **not** a standard development repository!
 
